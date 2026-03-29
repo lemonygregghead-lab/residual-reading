@@ -9,4 +9,4 @@ As the text changes, it leaves behind “residues”: traces shaped by contact, 
 
 The project treats attention as active, embodied, and generative. Meaning accumulates, disperses, and returns.
 
-Try interacting with each phrase differently and notice how the text—and your reading—changes.
+Try interacting with each phrase differently—hovering, clicking, and letting it run—and notice how the text—and your reading—changes.
