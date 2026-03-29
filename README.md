@@ -13,4 +13,4 @@ Try interacting with each phrase differently—hovering, clicking, and letting i
 
 ## Status
 
-This is an active, evolving project. 
+This is an active project still in development, built using React (JavaScript) to create an interactive environment that models attention as generative and produces evolving textual states.
