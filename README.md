@@ -1,7 +1,7 @@
 # Residual Reading: Tender Buttons Under Pressure
 ## Live Demo
 
-[Open the interactive reading environment](https://7d24d879-a15f-4cb9-88be-b7ea2d61da86-00-1bgfpad9944o4.worf.replit.dev)
+[Open the interactive reading environment](https://residual-reading-k1o4.vercel.app/)
 
 This project is an interactive reading space for *Tender Buttons* in which attention acts on the text. Rather than producing stable interpretations, it generates shifting textual states through interaction—hovering, clicking, and duration—each of which introduces a different form of instability.
 
